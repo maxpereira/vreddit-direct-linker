@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "author": "Max Pereira and Sophie Debs",
 
-  "permissions": ["tabs", "*://reddit.com/*","*://*.reddit.com/*"],
+  "permissions": ["tabs", "clipboardWrite", "*://reddit.com/*","*://*.reddit.com/*"],
 
   "background": {"scripts": ["main.js"]},
   "description": "Get the direct link to a video on reddit",
