@@ -1,13 +1,16 @@
 {
-  "name": "Reddit Video Linker",
+  "name": "V.Reddit Direct Linker",
   "short_name": "vreddit-extension",
-  "version": "1.0.1",
-  "author": "Sophie Debs",
+  "version": "2.0.0",
+  "author": "Max Pereira and Sophie Debs",
 
-  "permissions": ["contextMenus", "*://reddit.com/*"],
+  "permissions": ["tabs", "*://reddit.com/*","*://*.reddit.com/*"],
 
   "background": {"scripts": ["main.js"]},
   "description": "Get the direct link to a video on reddit",
+  "browser_action": {
+    "default_icon": "img/icon32.png"
+  },
   "icons": {
     "128": "img/icon128.png",
     "16": "img/icon16.png",
