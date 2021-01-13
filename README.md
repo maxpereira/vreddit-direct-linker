@@ -1,5 +1,5 @@
-## Reddit Video Linker</h2>
-Chrome extension that adds a button to the context menu (right-click) on reddit to directly link to a video hosted by reddit at v.redd.it. To use it, right click on the full link to a post (from the main page, this is the link saying "54 comments", or whatever number), and click "Get direct video link." A dialog will pop up allowing you to copy it directly.
+## V.Redd.it Video Linker</h2>
+Chrome extension that adds a toolbar button to directly link to a video hosted by reddit at v.redd.it. To use it, click on the full link to a post (from the main page, this is the link saying "54 comments", or whatever number), and click the extension icon in the toolbar next to the settings triple dot menu. The link will be automatically copied to your clipboard.
 
 #### FAQ
 - *Can't I just right-click and do "Copy video address?"*
@@ -15,6 +15,6 @@ Unfortunately not. Only the visuals are accessible in this way; it is possible t
 Improvements for this extension will be managed and planned via this repo. If you have any ideas about improvements or want to contribute, please [submit an issue!](https://github.com/maxpereira/reddit-video-extractor/issues/new)
 
 #### What were those steps again?
-1. Click the link into the post comments *post* (not the video).
+1. Click the link into the post comments *post* (not the video)
 2. Click the extension icon
-3. Copy the link!
+3. Direct video link (minus sound) is copied to your clipboard automatically
