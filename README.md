@@ -1,6 +1,8 @@
 ## V.Redd.it Video Linker</h2>
 Chrome extension that adds a toolbar button to directly link to a video hosted by reddit at v.redd.it. To use it, click on the full link to a post (from the main page, this is the link saying "54 comments", or whatever number), and click the extension icon in the toolbar next to the settings triple dot menu. The link will be automatically copied to your clipboard.
 
+*Adapted from [this repo](https://github.com/amity/reddit-video-extractor) by Amity.*
+
 #### FAQ
 - *Can't I just right-click and do "Copy video address?"*
 
